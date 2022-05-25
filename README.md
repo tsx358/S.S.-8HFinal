@@ -1,1 +1,3 @@
-# S.S.-8HFinal
+# S.S. Final Project 
+
+- still working on it -
