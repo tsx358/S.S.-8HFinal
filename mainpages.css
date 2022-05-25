@@ -1,0 +1,64 @@
+
+.mainpageheaders{
+  font-size: 3vw;
+  text-align: center;
+}
+
+.mainpagetext{
+  font-size: 1.5vw;
+  padding: 0px 10% 2% 10%; 
+  line-height: 1.5;
+  text-align: left;
+}
+
+.mainpagetit{
+  font-size: 2vw;
+  text-align: left;
+  line-height: 0.5;
+}
+
+img{
+  padding: 2%;
+}
+
+.splitleft{
+  float: left;
+  width: 50%;
+}
+
+.splitright{
+  float: right;
+  width: 50%;
+}
+.centered{
+  text-align: center; 
+
+}
+
+.bottomimg{
+  width: 40%;
+  box-shadow: -1px -1px 5px black;
+}
+
+.bottomimg:hover{
+  transform: scale(1.01);
+  box-shadow: -2px -2px 5px black;
+}
+
+
+
+      .endsquarebutton{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border: 2px solid black;
+    padding: 2%;
+    font-size:1.5vw;
+          transition: .2s;
+  }
+  .endsquarebutton:hover{
+    background-color: black;
+        border: 2px solid black;
+    color: white;
+      transition: .5s;
+  }
