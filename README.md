@@ -24,7 +24,12 @@ Speech/Media Links
 http://afe.easia.columbia.edu/ps/china/chiang_kaishek_natl_identity.pdf <br>
 https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_19.htm https://www.youtube.com/watch?v=nAR2w5xZ2XY <br>
 
+### Translations
+Translations from Chinese to English (in the website) are done by me, without translating tools. I attempted to translate the media scripts to English to the best of my ability. Some sentences may feel off when reading it.
 
 ### Codes
-Source code by me can be found in the files in this repository.
+Source code by me can be found in the files in this repository. 
 The timeline was inspired by <a href="https://codepen.io/jen-huang/pen/LENZGX"> this </a>!
+I used Repl.it to make this site, then uploaded the individual files to github. 
+
+This site is hosted by GitHub Pages.
