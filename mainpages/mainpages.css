@@ -2,6 +2,7 @@
 .mainpageheaders{
   font-size: 3vw;
   text-align: center;
+  padding: 1%;
 }
 
 .mainpagetext{
@@ -15,6 +16,7 @@
   font-size: 2vw;
   text-align: left;
   line-height: 0.5;
+  padding: 1%;
 }
 
 img{
@@ -38,6 +40,7 @@ img{
 .bottomimg{
   width: 40%;
   box-shadow: -1px -1px 5px black;
+  padding: 1%;
 }
 
 .bottomimg:hover{
@@ -62,3 +65,16 @@ img{
     color: white;
       transition: .5s;
   }
+
+
+.flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+video {
+  width: 40%;
+  height: auto;
+  padding: 2%; 
+}
