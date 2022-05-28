@@ -5,7 +5,7 @@ Welcome to this repository, which holds the files of a website completed by June
 
 This website gives a comprehensible approach to the stories of Chiang Kai-Shek and Mao ZeDong. Split in 4 pages of information: Chiang, Mao, Impacts, and a glossary, each page gives you accurate information on its context. 
 
-👉 Website link: https://tsx358.github.io/S.S.-8HFinal/
+👉 Website link: https://tx-ss8hfinal-chiangandmao.vercel.app/
 
 ## Credits
 ### Several Works Cited
