@@ -31,7 +31,7 @@ Translations from Chinese to English (in the website) are done by me, without tr
 
 ### Codes
 Source code by me can be found in the files in this repository. 
-The timeline was inspired by <a href="https://codepen.io/jen-huang/pen/LENZGX"> this </a>!
+The timeline was inspired by <a href="https://codepen.io/jen-huang/pen/LENZGX"> this</a>!
 I used Repl.it to make this site, then uploaded the individual files to github. 
 
 This site is hosted by GitHub Pages.
