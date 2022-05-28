@@ -34,4 +34,4 @@ Source code by me can be found in the files in this repository.
 The timeline was inspired by <a href="https://codepen.io/jen-huang/pen/LENZGX"> this</a>!
 I used Repl.it to make this site, then uploaded the individual files to github. 
 
-This site is hosted by GitHub Pages.
+This site is hosted with GitHub Pages and Vercel.
