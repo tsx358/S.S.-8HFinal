@@ -10,6 +10,7 @@ This website gives a comprehensible approach to the stories of Chiang Kai-Shek a
 
 ## Credits
 ### Several Works Cited
+Full works cited is in the Glossary page of the website as a PDF. 
 General Informational Sources:
 https://history.state.gov/milestones/1945-1952/chinese-rev  <br>
 https://www.britannica.com/topic/Peoples-Liberation-Army-Chinese-army<br>
